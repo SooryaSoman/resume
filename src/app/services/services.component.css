@@ -1,10 +1,10 @@
 .media-body{
-	background: #ff6d05;
+	background:black;
     padding: 10px;
     color: #fff;
     text-align: center;
     width: 175px;
 }
 .media-body:hover{
-	background:#05d1ff;
+	background:blue;
 }
